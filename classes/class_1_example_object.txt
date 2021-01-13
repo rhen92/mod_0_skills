@@ -1,0 +1,12 @@
+Instance Hot Wings
+attributes
+isTasty = true
+numberOfCalories = 150
+nutritionInfo = ["Sugar", "Vitamin A"]
+cook = "Tyler"
+
+methods
+burnFood => updates isTasty to false
+addVitamin => updates nutritionInfo array with "Vitamin D"
+newCook => updates cook to "Jack"
+reduceCalories => updates numberOfCalories to 149
