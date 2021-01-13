@@ -1,0 +1,9 @@
+var food = "Soup";
+var is_delicious = true;
+var food = "Banana";
+var num2 = 2;
+var num7 = 7;
+var quotient = num2/num7;
+var songs = ["Stairway to Heaven", "Stays in Mexico", "Prey"];
+var firstsong = songs.shift();
+var number = food.length;
