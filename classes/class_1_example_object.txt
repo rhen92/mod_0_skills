@@ -8,5 +8,5 @@ cook = "Tyler"
 methods
 burnFood => updates isTasty to false
 addVitamin => updates nutritionInfo array with "Vitamin D"
-newCook => updates cook to "Jack"
+hireNewCook => updates cook to "Jack"
 reduceCalories => updates numberOfCalories to 149
