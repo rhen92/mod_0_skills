@@ -1,0 +1,13 @@
+Instance Bahama Mama
+
+attributes:
+color = "red"
+isAlcoholic = true
+hasIce = true
+fullCup = true
+
+methods
+meltIce => updates hasIce to false
+spillCup => updates fullCup to false
+orderVirginDrink => updates isAlcoholic to false
+changeColor => changes color to "white"
