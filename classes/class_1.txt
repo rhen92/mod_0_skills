@@ -1,0 +1,12 @@
+Class Food
+Attributes:
+isTasty (boolean)
+numberOfCalories (integer)
+nutritionInfo(array)
+cook(string)
+
+Methods:
+burnFood (updates isTasty to false)
+addVitamin (updates nutritionInfo array)
+newCook (updates cook with new string)
+reduceCalories (updates numberOfCalories by -1)
