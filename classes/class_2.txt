@@ -1,0 +1,13 @@
+Class Beverage
+
+attributes:
+color (string)
+isAlcoholic (boolean)
+hasIce (boolean)
+fullCup (boolean)
+
+methods
+meltIce (updates hasIce to false)
+spillCup (updates fullCup to false)
+orderVirginDrink (updates isAlcoholic to false)
+changeColor (updates color)
