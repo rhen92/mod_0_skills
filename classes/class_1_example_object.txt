@@ -4,9 +4,11 @@ isTasty = true
 numberOfCalories = 150
 nutritionInfo = ["Sugar", "Vitamin A"]
 cook = "Tyler"
+isCut = false
 
 methods
 burnFood => updates isTasty to false
 addVitamin => updates nutritionInfo array with "Vitamin D"
 hireNewCook => updates cook to "Jack"
 reduceCalories => updates numberOfCalories to 149
+chopFood => updates isCut to true
