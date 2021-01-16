@@ -4,9 +4,11 @@ isTasty (boolean)
 numberOfCalories (integer)
 nutritionInfo(array)
 cook(string)
+isCut (boolean)
 
 Methods:
 burnFood (updates isTasty to false)
 addVitamin (updates nutritionInfo array)
 hireNewCook (updates cook with new string)
 reduceCalories (updates numberOfCalories by -1)
+chopFood (updates isCut to true)
